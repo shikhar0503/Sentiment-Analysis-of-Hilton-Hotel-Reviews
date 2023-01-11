@@ -37,18 +37,24 @@ The detailed analysis and model creation can be found in the .ipynb file.
 Some of the test images are given below.
 
 The results from Classical ML Models are as below:
-![test](Snips/Result_1.JPG)
+![test](<img width="303" alt="Result-1" src="https://user-images.githubusercontent.com/106606656/211777092-1644617c-51c2-4654-a823-2ae31914b18d.png">
+)
 
 The Logistic Regression turns out to be the best model and the confusion matrix using it is as follows:
-![test](Snips/CM_1.JPG)
+![test](<img width="334" alt="CM-1" src="https://user-images.githubusercontent.com/106606656/211769955-8cd6e30c-68de-4313-b73c-992f396a6073.png">
+)
 
 The results from ANNs are as follows:
-![test](Snips/Result_2.JPG)
-![test](Snips/CM_2.JPG)
+![test](<img width="402" alt="Result-2" src="https://user-images.githubusercontent.com/106606656/211777028-ba00fd2b-ff80-4dc8-b10e-0552c90bebcb.png">
+)
+![test](<img width="329" alt="CM-2" src="https://user-images.githubusercontent.com/106606656/211769985-0786ba5d-0535-4f38-b354-9ad31f9744d2.png">
+)
 
 The results from LSTMs are as follows:
-![test](Snips/Result_3.JPG)
-![test](Snips/CM_3.JPG)
+![test](<img width="390" alt="Result-3" src="https://user-images.githubusercontent.com/106606656/211776979-9a9cb6a8-d5e6-4d45-a50b-ba73bfd3be59.png">
+)
+![test](<img width="325" alt="CM-3" src="https://user-images.githubusercontent.com/106606656/211770005-7cc2fc96-538e-40e2-bf9f-a641380aeb1c.png">
+)
 
 
 ## Conclusions :
